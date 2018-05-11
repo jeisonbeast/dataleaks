@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  
+[![<3](https://forthebadge.com/images/badges/built-with-love.svg)](#)  
 <p align="center">
   <img src="https://github.com/ofarukcaki/dataleaks/blob/master/readme-images/logo-dark.png?raw=true" height="78" width="300"/>
 </p>
