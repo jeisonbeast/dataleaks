@@ -71,7 +71,7 @@ I will update with the latest version when I get access again to my HDD.
 
 ---
 Logo by [@omergulen](https://github.com/omergulen).  
-Under licensed, can not be used for neither commercial or personal.
+Dataleaks logo is under licensed, can not be used for neither commercial or personal.
 
 
 ## Legal
