@@ -67,3 +67,8 @@ I will update with the latest version when I get access again to my HDD.
 *BTC:* **38bfHGSauMEXArpdRrPf2e2DR1fW3HSwAV**  
 *ETH:*  **0xfe9D665AD3De716Cb89A946a8d2BF74FeC815c49**  
 *LTC:*  **M8XhgUxs7WbGpMJshL9rnFo8KcGwhxtYi1**
+
+
+---
+Logo by [@omergulen](https://github.com/omergulen).  
+Under licensed, can not be used for neither commercial or personal.
