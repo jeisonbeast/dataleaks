@@ -16,6 +16,7 @@ I developed this website but never had a chance to go online due to my busy pers
  - Cookie based **Referral system**    see*
  - PHP (backend)
  - SQL (database)
+ - Materialize (front-end)
  
 # Screnshoots
 
@@ -34,7 +35,6 @@ I developed this website but never had a chance to go online due to my busy pers
 ## Requirements
 - PHP 7.x
 - MySQL
-
 
 ## Install
 
