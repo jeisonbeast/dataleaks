@@ -1,6 +1,7 @@
-<center>
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)  
+<p align="center">
   <img src="https://github.com/ofarukcaki/dataleaks/blob/master/readme-images/logo-dark.png?raw=true" height="78" width="300"/>
-</center>
+</p>
 
 
 I developed this website but never had a chance to go online due to my busy personal life and lack of time. So about a year later, I decided to open source it.
