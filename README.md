@@ -1,4 +1,4 @@
-[![<3](https://forthebadge.com/images/badges/built-with-love.svg)](#)  
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)   
 <p align="center">
   <img src="https://github.com/ofarukcaki/dataleaks/blob/master/readme-images/logo-dark.png?raw=true" height="78" width="300"/>    
 </p>
@@ -72,3 +72,6 @@ I will update with the latest version when I get access again to my HDD.
 ---
 Logo by [@omergulen](https://github.com/omergulen).  
 Under licensed, can not be used for neither commercial or personal.
+
+
+  [![<3](https://forthebadge.com/images/badges/built-with-love.svg)](#)  
