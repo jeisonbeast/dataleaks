@@ -74,4 +74,7 @@ Logo by [@omergulen](https://github.com/omergulen).
 Under licensed, can not be used for neither commercial or personal.
 
 
+## Legal
+Use this script for legal purposes only.
+
   [![<3](https://forthebadge.com/images/badges/built-with-love.svg)](#)  
