@@ -29,6 +29,9 @@ I developed this website but never had a chance to go online due to my busy pers
 - **Login/Register**
 ![Login Page](https://github.com/ofarukcaki/dataleaks/blob/master/readme-images/login.png?raw=true)
 
+- **Referral System**
+![Referral System](https://raw.githubusercontent.com/ofarukcaki/dataleaks/master/readme-images/affiliate.png)
+
 - **Others**
 ![TOS](https://github.com/ofarukcaki/dataleaks/blob/master/readme-images/tos.png?raw=true)
 
