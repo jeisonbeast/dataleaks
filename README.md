@@ -7,7 +7,7 @@
   <h1 style="text-align:center;">Data Breach Search Engine</h1>
 </center>
 
-I developed this website but never had a chance to go online due to my busy personal life and lack of time. So about a year later, I decided to open source it.
+I developed this website once and decided to open source it.
 
 ## Features
 
