@@ -77,7 +77,7 @@ Logo by [@omergulen](https://github.com/omergulen).
 Dataleaks logo is under licensed, can not be used for neither commercial or personal.
 
 
-## Legal
+## Disclaimer
 Use this script for legal purposes only.
 
   [![<3](https://forthebadge.com/images/badges/built-with-love.svg)](#)  
